@@ -1,0 +1,26 @@
+C:\BinSoft\Git\bin;
+C:\BinSoft\MTK\Perl\bin;
+C:\BinSoft\Anaconda3;
+C:\Windows\system32;
+C:\Windows;
+C:\Windows\System32\Wbem;
+C:\Windows\System32\WindowsPowerShell\v1.0\;
+C:\Windows\System32\OpenSSH\;
+C:\BinSoft\MATLAB\R2021b\runtime\win64;
+C:\BinSoft\MATLAB\R2021b\bin;
+C:\Program Files (x86)\National Instruments\Shared\LabVIEW CLI;
+C:\Users\champbin\AppData\Local\Microsoft\WindowsApps;
+C:\ARM\bin\win_32-pentium;
+C:\ARM\Java\JRE\150\02\win_32-pentium\jre1.5.0_02\bin;
+C:\ARM\RDI\Deprecated\1.3.1\1\windows;
+C:\ARM\RVCT\Programs\3.1\569\win_32-pentium;
+C:\ARM\RVD\Core\3.1\881\win_32-pentium\bin;
+C:\ARM\IDEs\Eclipse\Distribution\1.1\32\win_32-pentium\eclipse;
+C:\ARM\Utilities\FLEXlm\10.8.5.0\1\win_32-pentium;
+C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;
+C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;
+C:\Program Files\dotnet\;
+C:\BinSoft\Anaconda3\Scripts;
+C:\BinSoft\7-Zip;
+C:\BinSoft\Microsoft VS Code\bin;
+C:\Users\champbin\.dotnet\tools 
